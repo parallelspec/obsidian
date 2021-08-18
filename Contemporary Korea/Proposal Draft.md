@@ -25,4 +25,6 @@ This paper discusses the strategies employed by the Korean government throughout
 
 *East Asian financial and economic development* by Randall Morck, Bernard Yeung (2017) 
 
-This paper investigates the East Asian Tigers, a group of four countries that experienced turbulent growth t
+This paper investigates the East Asian Tigers, a group of four countries that experienced turbulent growth through the late twentieth century
+
+
