@@ -13,3 +13,7 @@ List of topics
 
 
 Leaning towards topic 4 (Hallyu) and 7 (Colonialism). Maybe 5 (economic power). 
+
+After thinking about it for 3 hours I think I will choose 5: 
+- Have always been interested in the rise of Asian countries (especially the Tigers + Cubs + new Tigers) 
+- 

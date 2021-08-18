@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "0f79a794400e61a0",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Contemporary Korea/A1 - Proposal.md",
-            "mode": "source"
-          }
-        },
-        "group": "aecb799eed2fd31d"
-      },
-      {
         "id": "32b0388282c1c26f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Contemporary Korea/A1 - Proposal.md",
+            "file": "Contemporary Korea/Proposal Draft.md",
             "mode": "preview"
+          }
+        },
+        "group": "aecb799eed2fd31d"
+      },
+      {
+        "id": "0f79a794400e61a0",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Contemporary Korea/Proposal Draft.md",
+            "mode": "source"
           }
         },
         "group": "aecb799eed2fd31d"
@@ -81,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Contemporary Korea/A1 - Proposal.md",
+                "file": "Contemporary Korea/Proposal Draft.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -109,8 +109,8 @@
   },
   "active": "0f79a794400e61a0",
   "lastOpenFiles": [
-    "Contemporary Korea/A1 - Proposal.md",
     "Untitled.md",
+    "Contemporary Korea/A1 - Proposal.md",
     "test_admin/Untitled.md",
     "test_admin/README.md",
     "test_admin/testerino.md",
