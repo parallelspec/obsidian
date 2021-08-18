@@ -4,11 +4,27 @@ For my research assessment for the subject 'Contemporary Korea (KORE20002)' I ha
 
 This topic is significant upon Korea's history, as .... 
 
+The structure of the paper is as follows: 
 
-Literature review:
+- Introduction of topic  
+- Background information of Korea during the first half of the 20th century 
+- Initial growth post Korea war 
+- Peak growth of the Korean economy or, 'The Big Push'
+- Financial crisis of the 1990s 
+- Modern day (2010 onwards) Korea and the ramifications of the 'Miracle on the Han river'.
+- Conclusion 
+
+
 I have selected the following sources that will assist in the writing of this paper: 
+
 *Lessons from Korean Economic Growth* by Susan M. Collins, 1990 
+
 This paper discusses the strategies employed by the Korean government throughout the twentieth century through economic policies and investments that guided the nation to economic prosperity by the 1980s, the peak of South Korea's economic growth on a year-on-year metric. [citation] Collins is an American academic focusing on macroeconomics, and has written numerous works regarding economic growth in Asian countries, especially the 'Asian Tigers' and the BRIC nations.
 
 *Demogrpahic change, human capital, and economic growth in Korea* by Jong-Suk Han, Jong-Wha Lee, 2020
+
+*East Asian financial and economic development* by Randall Morck, Bernard Yeung (2017) 
+
+This paper investigates the 
+
 
