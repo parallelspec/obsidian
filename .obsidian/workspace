@@ -9,7 +9,51 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "testerino.md",
+            "file": "test_admin/Untitled.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "f069df10bba84665",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test_admin/README.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "2a691d77b4b73019",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test_admin/testerino.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "58a3db04b38af651",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test_admin/Untitled.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "6d958d40fa73c59a",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "test_admin/README.md",
             "mode": "source"
           }
         }
@@ -68,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "testerino.md",
+                "file": "test_admin/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,9 +138,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0f79a794400e61a0",
+  "active": "6d958d40fa73c59a",
   "lastOpenFiles": [
-    "testerino.md",
-    "Untitled.md"
+    "README.md",
+    "Untitled.md",
+    "testerino.md"
   ]
 }
