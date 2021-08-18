@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "test_admin/Untitled.md",
+            "file": "Contemporary Korea/A1 - Proposal.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "test_admin/Untitled.md",
+                "file": "Contemporary Korea/A1 - Proposal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,11 +96,11 @@
   },
   "active": "0f79a794400e61a0",
   "lastOpenFiles": [
+    "Untitled.md",
     "test_admin/Untitled.md",
     "test_admin/README.md",
     "test_admin/testerino.md",
     "README.md",
-    "Untitled.md",
     "testerino.md"
   ]
 }
