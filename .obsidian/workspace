@@ -52,7 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330
+    "width": 142
   },
   "right": {
     "id": "014a397f24bbdf7d",
@@ -96,6 +96,7 @@
   },
   "active": "0f79a794400e61a0",
   "lastOpenFiles": [
+    "Contemporary Korea/A1 - Proposal.md",
     "Untitled.md",
     "test_admin/Untitled.md",
     "test_admin/README.md",
