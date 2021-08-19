@@ -21,7 +21,9 @@ I have selected the following sources that will assist in the writing of this pa
 
 This paper discusses the strategies employed by the Korean government throughout the twentieth century through economic policies and investments that guided the nation to economic prosperity by the 1980s, the peak of South Korea's economic growth on a year-on-year metric. [citation] Collins is an American academic focusing on macroeconomics, and has written numerous works regarding economic growth in Asian countries, especially the 'Asian Tigers' and the BRIC nations.
 
-*Demogrpahic change, human capital, and economic growth in Korea* by Jong-Suk Han, Jong-Wha Lee, 2020
+*Demographic change, human capital, and economic growth in Korea* by Jong-Suk Han, Jong-Wha Lee, 2020 
+
+This paper compiles the trends of human capital (labour and enterprise) within modern day Korea, and the changes caused by an increasing multicultural population. The two authors are both senior economists. In particular, Lee is the current professor of economics at Korea University, as well as formely being a senior economist advisor to Lee Myung-bak. Han is currently an associate professor of finance at the Stockholm School of Economics. 
 
 *East Asian financial and economic development* by Randall Morck, Bernard Yeung (2017) 
 
