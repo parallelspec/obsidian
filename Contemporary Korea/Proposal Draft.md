@@ -38,6 +38,9 @@ This paper focuses on the effects of Japanese colonialism upon Korea, and how it
 This book details the events leading up to, during, and post the 1997 Korean financial crisis. In particular, the section regarding chaebols will be used frequently within the assessment. The two authors are both Korean economists and professors - Shin at National University of Singapore, and Chang at the University of Cambridge. 
 
 
+**Indeed, ‘the Miracle on the Han River’ introduced Korea to the global stage. (Han & Lee, 2020).**
+
+
 
 
 
