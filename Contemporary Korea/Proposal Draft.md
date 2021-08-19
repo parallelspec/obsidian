@@ -10,7 +10,7 @@ The structure of the paper is as follows:
 - Background information of Korea during the first half of the 20th century 
 - Initial growth post Korea war 
 - Peak growth of the Korean economy or, 'The Big Push'
-- Financial crisis of the 1990s 
+- Financial crisis of the 1990s - in particular, the 1997 financial crisis
 - Modern day (2010 onwards) Korea and the ramifications of the 'Miracle on the Han river'.
 - Conclusion 
 
@@ -19,7 +19,7 @@ I have selected the following references that will assist in the writing of this
 
 *Lessons from Korean Economic Growth* by Susan M. Collins, 1990 
 
-This paper discusses the strategies employed by the Korean government throughout the twentieth century through economic policies and investments that guided the nation to economic prosperity by the 1980s, the peak of South Korea's economic growth on a year-on-year metric. [citation] Collins is an American academic focusing on macroeconomics, and has written numerous works regarding economic growth in Asian countries, especially the 'Asian Tigers' and the BRIC nations.
+This paper discusses the strategies employed by the Korean government throughout the twentieth century through economic policies and investments that guided the nation to economic prosperity by the 1980s. Collins is an American academic focusing on macroeconomics, and has written numerous works regarding economic growth in Asian countries, especially the 'Asian Tigers' and the BRIC nations.
 
 *Demographic change, human capital, and economic growth in Korea* by Jong-Suk Han, Jong-Wha Lee, 2020 
 
@@ -27,13 +27,15 @@ This paper compiles the trends of human capital (labour and enterprise) within m
 
 *East Asian financial and economic development* by Randall Morck, Bernard Yeung, 2017
 
-This paper investigates the East Asian Tigers, a group of four countries that experienced turbulent growth through the late twentieth century, including Korea. The two authors are both economists. Yeung lived a few years in Hong Kong, one of the cities tied with the East Asian Tigers. 
+This paper investigates the East Asian Tigers, a group of four countries that experienced turbulent growth through the late twentieth century, including Korea. The two authors are both economists. This paper along with the former (Han, Lee 2020) have the benefit of hindsight owing to their publish years. Yeung lived a few years in Hong Kong, one of the cities tied with the East Asian Tigers. 
 
 *Where do high growth political economies come from? The Japanese lineage of Korea's "developmental state"* by Atul Kohli, 1994 
 
 This paper focuses on the effects of Japanese colonialism upon Korea, and how it affected the political and economic decisions made by the Korean government the in subsequent half-century. Kohli is the professor of international affairs at Princeton University, focusing on the economies of developing nations. 
 
-*Restructing*
+*Restructuring Korean Inc.* by Jang-Sup Shin and Ha-Joon Chang, 2003 
+
+This book details the events leading up to, during, and post the 1997 Korean financial crisis. In particular, the section regarding chaebols will be used frequently within the assessment. The two authors are both Korean economists and professors - Shin at National University of Singapore, and Chang at the University of Cambridge. 
 
 
 
