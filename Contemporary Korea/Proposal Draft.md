@@ -23,7 +23,7 @@ This paper discusses the strategies employed by the Korean government throughout
 
 *Demographic change, human capital, and economic growth in Korea* by Jong-Suk Han, Jong-Wha Lee, 2020 
 
-This paper compiles the trends of human capital (labour and enterprise) within modern day Korea, and the changes caused by an increasing multicultural population. The two authors are both senior economists. In particular, Lee is the current professor of economics at Korea University, as well as formely being a senior economist advisor to Lee Myung-bak. Han is currently an associate professor of finance at the Stockholm School of Economics. 
+This paper compiles the trends of human capital (labour and enterprise) within modern day Korea, and the changes caused by an increasing multicultural population. The two authors are both senior economists. In particular, Lee is the current professor of economics at Korea University, as well as formely being a senior economist advisor to Lee Myung-bak. Han is currently an associate professor of finance at the Stockholm School of Economics. The two were both born and raised in Korea during the peak industrisliastion and economic growth, giving insight in this topic through a native viewpoint. 
 
 *East Asian financial and economic development* by Randall Morck, Bernard Yeung (2017) 
 
