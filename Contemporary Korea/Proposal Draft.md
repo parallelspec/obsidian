@@ -27,7 +27,8 @@ This paper compiles the trends of human capital (labour and enterprise) within m
 
 *East Asian financial and economic development* by Randall Morck, Bernard Yeung (2017) 
 
-This paper investigates the East Asian Tigers, a group of four countries that experienced turbulent growth through the late twentieth century, including Korea. The two authors are both economists. In particular, Yeung lived a few years in Hong Kong, one of the cities tied with the East Asian Tigers.  
+This paper investigates the East Asian Tigers, a group of four countries that experienced turbulent growth through the late twentieth century, including Korea. The two authors are both economists. Yeung lived a few years in Hong Kong, one of the cities tied with the East Asian Tigers. 
+
 
 
 
