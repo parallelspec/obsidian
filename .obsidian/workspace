@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IMacro/Week 1 Noterino.md",
-            "mode": "source"
+            "file": "IMacro/Week 2.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMacro/Week 1 Noterino.md",
+                "file": "IMacro/Week 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,6 +95,7 @@
   },
   "active": "3de1fb70f5aa586a",
   "lastOpenFiles": [
+    "IMacro/Week 2.md",
     "IMacro/Week 1 Noterino.md",
     "Untitled.md",
     "Contemporary Korea/Final Copy.md",
@@ -103,7 +104,6 @@
     "Contemporary Korea/Research.md",
     "2006551.pdf",
     "test_admin/Untitled.md",
-    "test_admin/README.md",
-    "test_admin/testerino.md"
+    "test_admin/README.md"
   ]
 }
