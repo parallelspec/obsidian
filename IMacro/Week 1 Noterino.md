@@ -95,3 +95,8 @@ Private savings is disposable income - consumption, or $$S \equiv Y_{D} - C$$
 Then, $$S \equiv Y - T - C $$ as dispoable income is income - net taxes 
 With closed economy: $$Y = C + I + G$$ 
 
+Then, $$I = S + T - G$$ 
+Investment is private savings S + public savings $T - G$. 
+
+If $T > G$ then government is running at a surplus, public saving positive
+If $T < G$ th
