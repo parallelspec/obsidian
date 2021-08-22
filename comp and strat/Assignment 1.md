@@ -8,7 +8,9 @@ a) inset png
 
 b) Player 1 has 2 pure strategies, and player 2 has 2. 
 
-c) The SPNE here is $\{b, bab\}$. That is, player 1 chooses to veto $b$, then player 2 at that information node chooses $a$, resulting in a pay-off of $(2,1)$. 
+c) The SPNE here is $\{b, ba\}$. That is, player 1 chooses to veto $b$, then player 2 at that information node chooses $a$, resulting in a pay-off of $(2,1)$. See the attached diagram below:
+
+insert.png
 
 d) No. This can be shown via a game table associated with this game: 
 $$\begin{pmatrix}  
@@ -22,6 +24,8 @@ We can use cell-by-cell inspection to work out that the only NE payoff is $(2,1)
 
 <h3>Question 2</h3> 
 
-a) The SPNE is $\{d, dd\}$. The payoff associated is $(6, 4)$. 
+a) The SPNE is $\{d, d\}$. The payoff associated is $(6, 4)$. 
 
-b) 
+b) Player A does have first-mover advantage, as the SPNE has their highest payoff possible of $6$, whilst also forcing player B to select that option $(d, d)$ as it has the highest pay-off out of the two options at that node. 
+
+c) Player B does not have second-mover advantage, as the SPNE does not have their highest payoff possible, $6$. A potential modification to make B have second-mover advantage would be to change $(6, 4)$ to $(5, 7)$, as well as changing $(3, 5)$ to $(1337, 5)$.  
