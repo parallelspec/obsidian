@@ -33,6 +33,15 @@ c) Player B does not have second-mover advantage, as the SPNE does not have thei
 
 d) $$\begin{pmatrix}  
 \space& uu & ud & du & dd \\  
-u & 3,5 & 3,6 &  \\
+u & 3,5 & 3,5 & \color{red}3,6 & \color{red}3,6  \\
+d & 1,1 & \color{red}6,4 & 1,1 & \color{lime}6,4
 \end{pmatrix}$$
-where $(3,5)$ is the payoff when both players choose to go up. The other NE to the game are:
+where the rows are player 1's strategies, and the columns player 2's strategies. The NEs (which are not SPNE) are $\{u, du\}, \{u, dd\}$ and $\{d, ud\}$, highlighted in red. These are not SPNE as player A would always elect to choose $d$ knowing that player B would always select $d$ in the following node, meaning it isn't logical for the rest of the NEs to be rationally feasible to occur in play.
+
+e) One modification would be to change the payoff $(3, 6)$ to $(6, 6)$. This means the players are indifferent in deciding between strategies $(u, d)$ and $(d, d)$, making them both SPNEs.  
+
+<h3>Question 3</h3>  
+
+a) This is an imperfect information game, as VD has an initial choice to upgrade his car from a Honda to a Toyota. PW does not have this choice, nor is it explicitly mentioned he knows about VD's initial choice. 
+
+b) 
