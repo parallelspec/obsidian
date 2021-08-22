@@ -4,15 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "3de1fb70f5aa586a",
+        "id": "dd9657368e86d212",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IMacro/Week 2.md",
+            "file": "comp and strat/Assignment 1.md",
             "mode": "preview"
           }
-        }
+        },
+        "group": "9e4871356f0549c0"
+      },
+      {
+        "id": "28b723f774eaab90",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "comp and strat/Assignment 1.md",
+            "mode": "source"
+          }
+        },
+        "group": "9e4871356f0549c0"
       }
     ],
     "direction": "vertical"
@@ -52,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 142
+    "width": 140
   },
   "right": {
     "id": "014a397f24bbdf7d",
@@ -68,7 +81,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IMacro/Week 2.md",
+                "file": "comp and strat/Assignment 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,19 +104,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
-  "active": "3de1fb70f5aa586a",
+  "active": "28b723f774eaab90",
   "lastOpenFiles": [
-    "IMacro/Week 2.md",
+    "comp and strat/Assignment 1.md",
+    "comp and strat/Untitled.md",
     "IMacro/Week 1 Noterino.md",
+    "README.md",
     "Untitled.md",
+    "IMacro/Week 2.md",
     "Contemporary Korea/Final Copy.md",
     "Contemporary Korea/Proposal Draft.md",
     "Contemporary Korea/A1 - Proposal.md",
-    "Contemporary Korea/Research.md",
-    "2006551.pdf",
-    "test_admin/Untitled.md",
-    "test_admin/README.md"
+    "Contemporary Korea/Research.md"
   ]
 }
