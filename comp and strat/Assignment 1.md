@@ -42,6 +42,17 @@ e) One modification would be to change the payoff $(3, 6)$ to $(6, 6)$. This mea
 
 <h3>Question 3</h3>  
 
-a) This is an imperfect information game, as VD has an initial choice to upgrade his car from a Honda to a Toyota. PW does not have this choice, nor is it explicitly mentioned he knows about VD's initial choice. 
+a) This is an imperfect information game, as PW will always have uncertainty if he and VD decide to drive fast regardless of VD's intial choice to upgrade his car or not. (10% chance of both crashing, but only PW will be affected). 
 
-b) 
+b) ![[Pasted image 20210822182041.png]] Assuming PW knows about the initial upgrade.
+
+c) Assuming PW knows about this initial upgrade: 
+SPNE: $\{uf, f\}$, where $u$ is upgrade and $f$ is fast. PW should always choose to go fast, as expected payoffs of going fast are $0.1(0) + 0.9(500) = 450$, compared to the potential $100$ by choosing to go slow at those certain nodes. They are highlighted below:
+
+![[Pasted image 20210822184022.png]]
+
+For VD's case, if he upgrades his car then he should still always go fast, as the expected payoff if PW goes fast as well is $0.1(3500) + 0.9(500) = 800$, more than if he went slow. 
+
+Even if he does not upgrade his car, then he should still go fast. The expected payoff for this strategy $(NF,F)$ is $0.1(0) + 0.9(500) = 450$, higher than if VD went slow. This is not the SPNE for this case, as $450 < 800$, and I am assuming that $R$ is a different payoff metric than $C$.
+
+
