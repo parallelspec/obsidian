@@ -57,7 +57,7 @@ Even if he does not upgrade his car, then he should still go fast. The expected 
 
 d) VD would be indifferent between upgrading to a Toyota and simply staying with a Honda when the pay-offs of the NEs associated with both VD and PW going fast are equal. At the moment, the net profit for VD for following the specific NEs $(nf,f)$ and $(uf, f)$ are: 
 
-$(nf,f)$: $450 - 0 = 0$
+$(nf,f)$: $450 - 0 = 450$
 $(uf, f)$: $800 - 200 = 600$
 
 We are assuming that $C$ is the same currency as $R$. Hence, the following equation is made to find $C^{*}$, the value that renders VD indifferent between upgrading and not upgrading his Honda Civic Type R...or whatever the car he drives...: 
