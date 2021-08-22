@@ -53,6 +53,16 @@ SPNE: $\{uf, f\}$, where $u$ is upgrade and $f$ is fast. PW should always choose
 
 For VD's case, if he upgrades his car then he should still always go fast, as the expected payoff if PW goes fast as well is $0.1(3500) + 0.9(500) = 800$, more than if he went slow. 
 
-Even if he does not upgrade his car, then he should still go fast. The expected payoff for this strategy $(NF,F)$ is $0.1(0) + 0.9(500) = 450$, higher than if VD went slow. This is not the SPNE for this case, as $450 < 800$, and I am assuming that $R$ is a different payoff metric than $C$.
+Even if he does not upgrade his car, then he should still go fast. The expected payoff for this strategy $(NF,F)$ is $0.1(0) + 0.9(500) = 450$, higher than if VD went slow. This is not the SPNE for this case, as $450 < 800$. 
 
+d) VD would be indifferent between upgrading to a Toyota and simply staying with a Honda when the pay-offs of the NEs associated with both VD and PW going fast are equal. At the moment, the net profit for VD for following the specific NEs $(nf,f)$ and $(uf, f)$ are: 
 
+$(nf,f)$: $450 - 0 = 0$
+$(uf, f)$: $800 - 200 = 600$
+
+We are assuming that $C$ is the same currency as $R$. Hence, the following equation is made to find $C^{*}$, the value that renders VD indifferent between upgrading and not upgrading his Honda Civic Type R...or whatever the car he drives...: 
+
+$$450 = 800 - C^{*}$$ 
+Solving for $C^{*}$ yields $C^{*} = 350$. Therefore, VD is indifferent when $C^{*} = 350$ between upgrading to a Toyota or sticking with his classic Honda. 
+
+**End.**
