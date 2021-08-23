@@ -7,7 +7,7 @@
 a) ![[Pasted image 20210822172021.png]] 
 This is the game tree associated with this game.
 
-b) Player 1 has 2 pure strategies, and player 2 has 2. 
+b) Player 1 has 3 pure strategies, and player 2 has $2^{3}=8$ pure strategies.. 
 
 c) The SPNE here is $\{b, ba\}$. That is, player 1 chooses to veto $b$, then player 2 at that information node chooses $a$, resulting in a pay-off of $(2,1)$. See the attached diagram below:
 
@@ -63,6 +63,6 @@ $(uf, f)$: $800 - 200 = 600$
 We are assuming that $C$ is the same currency as $R$. Hence, the following equation is made to find $C^{*}$, the value that renders VD indifferent between upgrading and not upgrading his Honda Civic Type R...or whatever the car he drives...: 
 
 $$450 = 800 - C^{*}$$ 
-Solving for $C^{*}$ yields $C^{*} = 350$. Therefore, VD is indifferent when $C^{*} = 350$ between upgrading to a Toyota or sticking with his classic Honda. 
+Solving for $C^{*}$ yields $C^{*} = 350$. Therefore, VD is indifferent when $C^{*} = 350$ between upgrading to a Toyota or sticking with his classic Honda (even though I'm pretty sure he drives American cars in the films but whatever). 
 
 **End.**
