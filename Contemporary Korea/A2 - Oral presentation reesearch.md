@@ -15,3 +15,15 @@ to-do list
 2. plan structure of the powerpoint and start on script 
 3. check messages about information 
 4. actually do it 
+
+
+first format:
+> introduction to BTS
+> introduction to KPOP 
+> delve into music
+> delve into production, inspiration, lyrics etc. - how is it korean
+> members name (mention somewhere) 
+> mention rise of kpop and how BTS is leading the path 
+> fanbase? 
+> culture of music 
+> 
