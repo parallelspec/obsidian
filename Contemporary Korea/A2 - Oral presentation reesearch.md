@@ -14,4 +14,4 @@ to-do list
 1. look at notes from week 5 readings of Hallyu and maybe week 1 of Culture 
 2. plan structure of the powerpoint and start on script 
 3. check messages about information 
-4. 
+4. actually do it 
