@@ -26,4 +26,29 @@ first format:
 > mention rise of kpop and how BTS is leading the path 
 > fanbase? 
 > culture of music 
-> 
+> conclusion
+
+this is 5 mins wtf 
+
+<h2>script</h2> 
+
+<h3>Introduction</h3> 
+
+Hi, and welcome to my oral and visual presentation on BTS and what makes them Korean. NEXT SLIDE
+
+To answer this question, we find out who BTS are - next slide 
+
+BTS is a kpop group that debuted in 2013, but formed in 2010 - this is relatively common amongst KPOP groups
+There are 7 members: RM, who is the leader, J-Hop, V, JungKook, Suga, Jimin and Jin. 
+BTS stands for "Bangtan Boys" - Korean for 'Bulletproof Boy Scouts'. 
+BTS is currently the best selling Korean music artist of all time, which was achieved in 2020 after their latest album *Map of the Soul - 7*. 
+
+
+KPOP
+KPOP, or Korean Pop, is a genre of music stemming from South Korea. It takes features of other genres into it - such as contemporary R&B, electronic dance music, and jazz just to name a few. In particular, we will be focusing on the hip-hop, R&B, and pop influences in this presentation as they are the main types of genres BTS uses in their songs. 
+
+KPOP is thought to have started in the 90s, specfically via a band called Seo Taiji and Boys. This band is quite influential within the KPOP universe as they were one of the first groups to use elements of hip-hop, at the time an intriniscally American genre, in their songs. However, it would not be until the 2000s when artists such as BoA and SHINee would popularise the KPOP we know today - a flashy and highly choreographed show with extravagant music videos and dance concepts. 
+
+
+
+
