@@ -59,8 +59,14 @@ This is a table that lists the foreign producers, composers and choregraphers of
 With that being said, the majority of BTS' production since 2013 has been handled by its CEO Hitman and PDogg - both ethnically Korean. However we will need to delve more into what type of songs BTS makes to make a conclusion. 
 
 next slide bts and inspo
-BTS is K-POP group who's initial focus was on hip-hop: both RM and Suga met each other in underground rap circles before they joined BTS, and j-hope was also (and still is!) a keen rapper. It is then little surprise that some of the inspirations BTS listed early on their career were all hip-hop artist - Nas, Kanye West, Kendrick Lamar and Drake just ot name a few. 
+BTS is K-POP group who's initial focus was on hip-hop: both RM and Suga met each other in underground rap circles before they joined BTS, and j-hope was also (and still is!) a keen rapper. It is then little surprise that some of the inspirations BTS listed early on their career were all hip-hop artists - Nas, Kanye West, Kendrick Lamar and Drake just to name a few. It is extremely important to note hip-hop is an intrinsitcally American musical genre - stemming from the African-Americans in the 1980s. his follows a trend of KPOP-Artists
 
+BTS were also inspired by Korean acts - Epik High and Seo Taiji and Boys. These, whilst Korean, were both hip-hop artists inspired by Western music. Then again, perhaps the meaning of being Korean is changing - what does it mean to be Korean?  
+
+In terms of music styles, BTS were hip-hop focused at the start of their careers, but have gradually shifted to a more pop-vibrant sound that fit better with the rest of the industry at hte time. In the present day, Butter and Dynamite are both top hit pop records. 
+
+Lyrics
+BTS is one of the few groups that actively write all their songs - one of the reasons why they are very popular. In particular, a song called Ddaeng, featuring J-Hope, RM and Suga features many Korean aspects, but formulated into a hip-hop song. The first lines of the song - One eight one three three eight, dANG! refer to a Korean card game called Seotda. Foreign listeners, ev
 
 
 
