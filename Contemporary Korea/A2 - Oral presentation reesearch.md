@@ -63,10 +63,18 @@ BTS is K-POP group who's initial focus was on hip-hop: both RM and Suga met each
 
 BTS were also inspired by Korean acts - Epik High and Seo Taiji and Boys. These, whilst Korean, were both hip-hop artists inspired by Western music. Then again, perhaps the meaning of being Korean is changing - what does it mean to be Korean?  
 
-In terms of music styles, BTS were hip-hop focused at the start of their careers, but have gradually shifted to a more pop-vibrant sound that fit better with the rest of the industry at hte time. In the present day, Butter and Dynamite are both top hit pop records. 
+In terms of music styles, BTS were hip-hop focused at the start of their careers, but have gradually shifted to a more pop-vibrant sound that fit better with the rest of the industry at hte time. According to Cho Hae-Joang, this move was done to become more popular within the global market and hence create more revenue. In the present day, Butter and Dynamite are both top hit pop records globally - a sign of success.
 
 Lyrics
-BTS is one of the few groups that actively write all their songs - one of the reasons why they are very popular. In particular, a song called Ddaeng, featuring J-Hope, RM and Suga features many Korean aspects, but formulated into a hip-hop song. The first lines of the song - One eight one three three eight, dANG! refer to a Korean card game called Seotda. Foreign listeners, ev
+BTS is one of the few groups that actively write all their songs - one of the reasons why they are very popular. In particular, a song called Ddaeng, featuring J-Hope, RM and Suga features many Korean aspects, but formulated into a hip-hop song. The first lines of the song - One eight one three three eight, dANG! refer to a Korean card game called Seotda. Foreign listeners, even if they could understand the Korean language, would not neccessarily know what this line means if they did not know too much about Korean culture. This song in particular uses the multiple meanings of 'ddaeng'. In this scenario, 'ddaeng' means invincible or strong - as these combinations are considered to be the strongest in Seotda. This frog lyric references a Korean proverb - a frog stuck in the well cannot conceive the concept of an ocean. Again, western listeners would not understand this line unless they searched it up or had high Korean cultural knowledge.
+Butter on the other hand is completely in English and references American culture - this line ... read it... features a double negative - "don't need no" here really just means "don't need" - but this is a common way of saying that in America. We thus conclude that BTS lyrics range from being quite Korean, and to being not so much Korean
+
+Members
+Whilst all of the members are Korean, their names here are not. RM used to stand for rap monster, Suga refers to shooting guard, a position in basketball, a western sport. The only 'Korean' names here are Jin, Taehyung and Jungkook. Within the industry, this is not entirely uncommon to have many members using non-Korean names - Blackpink, a girl group, only has one member use their Korean name. 
+
+Music videos and perfromance
+
+
 
 
 
