@@ -44,11 +44,15 @@ BTS stands for "Bangtan Boys" - Korean for 'Bulletproof Boy Scouts'.
 BTS is currently the best selling Korean music artist of all time, which was achieved in 2020 after their latest album *Map of the Soul - 7*. 
 They have released two English only songs within the past 2 years - Dynamite, and Butter, both achieving momenutal success on the Billboard charts, the American music industry.
 
+transition
+we now talk about KPop
 
 KPOP
 KPOP, or Korean Pop, is a genre of music stemming from South Korea. It takes features of other genres into it - such as contemporary R&B, electronic dance music, and jazz just to name a few. In particular, we will be focusing on the hip-hop, R&B, and pop influences in this presentation as they are the main types of genres BTS uses in their songs. 
 
-KPOP is thought to have started in the 90s, specfically via a band called Seo Taiji and Boys. This band is quite influential within the KPOP universe as they were one of the first groups to use elements of hip-hop, at the time an intriniscally American genre, in their songs. However, it would not be until the 2000s when artists such as BoA and SHINee would popularise the KPOP we know today - a flashy and highly choreographed show with extravagant music videos and dance concepts. Genres during these times mostly focused on ballads or electronic dance music, with the occasional hip-hop song from certain groups, but most famously BigBang of SM Entertainment. Note that BTS is not with any of these labels - they are with BigHit Entertainment.
+KPOP is thought to have started in the 90s, specfically via a band called Seo Taiji and Boys. This band is quite influential within the KPOP universe as they were one of the first groups to use elements of hip-hop, at the time an intriniscally American genre, in their songs.  DONT READ
+
+However, it would not be until the 2000s when artists such as BoA and SHINee would popularise the KPOP we know today - a flashy and highly choreographed show with extravagant music videos and dance concepts. Genres during these times mostly focused on ballads or electronic dance music, with the occasional hip-hop song from certain groups, but most famously BigBang of SM Entertainment. Note that BTS is not with any of these labels - they are with BigHit Entertainment.
 
 focus slide
 we will be focusing on the following to analyse how Korean BTS is: read off slide and transition to production 
@@ -56,10 +60,10 @@ we will be focusing on the following to analyse how Korean BTS is: read off slid
 The Big 3 Production
 This is a table that lists the foreign producers, composers and choregraphers of each of the Big 3 companies. Considering that this table was created in 2012, this would have been the norm when BTS debuted in 2013 - with frequent production from American and Japanese composers and producers. When compared to the credits on BTS' Map of the Soul 7 album we can see they are following a similar trend - a large amount of foreign writers are on the album. It is important to note that most of the artists here come from an English speaking country - signifying the dominance of Western media within Korea - or at least, the CEOs of the these entertainment companies. 
 
-With that being said, the majority of BTS' production since 2013 has been handled by its CEO Hitman and PDogg - both ethnically Korean. However we will need to delve more into what type of songs BTS makes to make a conclusion. 
+With that being said, the majority of BTS' production since 2013 has been handled by its CEO Hitman and PDogg - both ethnically Korean. However we will need to delve more into what type of songs BTS makes to make a conclusion.  DONT READ
 
 next slide bts and inspo
-BTS is K-POP group who's initial focus was on hip-hop: both RM and Suga met each other in underground rap circles before they joined BTS, and j-hope was also (and still is!) a keen rapper. It is then little surprise that some of the inspirations BTS listed early on their career were all hip-hop artists - Nas, Kanye West, Kendrick Lamar and Drake just to name a few. It is extremely important to note hip-hop is an intrinsitcally American musical genre - stemming from the African-Americans in the 1980s. his follows a trend of KPOP-Artists
+BTS is K-POP group who's initial focus was on hip-hop: both RM and Suga met each other in underground rap circles before they joined BTS, and j-hope was also (and still is!) a keen rapper. It is then little surprise that some of the inspirations BTS listed early on their career were all hip-hop artists - Nas, Kanye West, Kendrick Lamar and Drake just to name a few. It is extremely important to note hip-hop is an intrinsitcally American musical genre - stemming from the African-Americans in the 1980s. 
 
 BTS were also inspired by Korean acts - Epik High and Seo Taiji and Boys. These, whilst Korean, were both hip-hop artists inspired by Western music. Then again, perhaps the meaning of being Korean is changing - what does it mean to be Korean?  
 
@@ -73,8 +77,10 @@ Members
 Whilst all of the members are Korean, their names here are not. RM used to stand for rap monster, Suga refers to shooting guard, a position in basketball, a western sport. The only 'Korean' names here are Jin, Taehyung and Jungkook. Within the industry, this is not entirely uncommon to have many members using non-Korean names - Blackpink, a girl group, only has one member use their Korean name. 
 
 Music videos and perfromance
+Spring Day, a song by BTS has a video which is often linked to the Sewol Ferry Tragedy. During the video, certain scenes feature the members in a boat - a ferry in particular. The lyrics themselves reference grief and the feeling of loneliness. However, BTS has stated numerous times that the lyrics of their songs, and the music videos and any performance is always up to the viewer to decide what it means to them. With that being said, Jin said "It is about a sad event, but also about longing"
 
-
+conclusion
+wrap it up
 
 
 
