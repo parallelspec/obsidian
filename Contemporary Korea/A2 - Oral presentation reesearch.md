@@ -42,6 +42,7 @@ BTS is a kpop group that debuted in 2013, but formed in 2010 - this is relativel
 There are 7 members: RM, who is the leader, J-Hop, V, JungKook, Suga, Jimin and Jin. 
 BTS stands for "Bangtan Boys" - Korean for 'Bulletproof Boy Scouts'. 
 BTS is currently the best selling Korean music artist of all time, which was achieved in 2020 after their latest album *Map of the Soul - 7*. 
+
 They have released two English only songs within the past 2 years - Dynamite, and Butter, both achieving momenutal success on the Billboard charts, the American music industry.
 
 transition
@@ -52,13 +53,13 @@ KPOP, or Korean Pop, is a genre of music stemming from South Korea. It takes fea
 
 KPOP is thought to have started in the 90s, specfically via a band called Seo Taiji and Boys. This band is quite influential within the KPOP universe as they were one of the first groups to use elements of hip-hop, at the time an intriniscally American genre, in their songs.  DONT READ
 
-However, it would not be until the 2000s when artists such as BoA and SHINee would popularise the KPOP we know today - a flashy and highly choreographed show with extravagant music videos and dance concepts. Genres during these times mostly focused on ballads or electronic dance music, with the occasional hip-hop song from certain groups, but most famously BigBang of SM Entertainment. Note that BTS is not with any of these labels - they are with BigHit Entertainment.
+it would not be until the 2000s when artists such as BoA and SHINee would popularise the KPOP we know today - a flashy and highly choreographed show with extravagant music videos and dance concepts. Note that BTS is not with any of these labels - they are with BigHit Entertainment.
 
 focus slide
 we will be focusing on the following to analyse how Korean BTS is: read off slide and transition to production 
 
 The Big 3 Production
-This is a table that lists the foreign producers, composers and choregraphers of each of the Big 3 companies. Considering that this table was created in 2012, this would have been the norm when BTS debuted in 2013 - with frequent production from American and Japanese composers and producers. When compared to the credits on BTS' Map of the Soul 7 album we can see they are following a similar trend - a large amount of foreign writers are on the album. It is important to note that most of the artists here come from an English speaking country - signifying the dominance of Western media within Korea - or at least, the CEOs of the these entertainment companies. 
+This is a table that lists the foreign producers, composers and choregraphers of each of the Big 3 companies. Considering that this table was created in 2012, this would have been the norm when BTS debuted in 2013 - with frequent production from American and Japanese composers and producers. When compared to the credits on BTS' Map of the Soul 7 album we can see they are following a similar trend - a large amount of foreign writers are on the album. It is important to note that most of the artists here come from an English speaking country - signifying the dominance of Western media within Korea.
 
 With that being said, the majority of BTS' production since 2013 has been handled by its CEO Hitman and PDogg - both ethnically Korean. However we will need to delve more into what type of songs BTS makes to make a conclusion.  DONT READ
 
